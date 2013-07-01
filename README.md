@@ -8,8 +8,8 @@ This is the Dev project, users should download the project from http://thejit.or
 
 Useful links
 ------
-  - [jit homepage](http://thejit.org)
-  - [jit's blog](http://blog.thejit.org)
+  - [jit homepage](http://philogb.github.io/jit/)
+  - [jit's blog](http://philogb.github.com/blog)
   - [Getting Started with the Source](https://github.com/philogb/jit/wiki/Getting-Started)
   
   
